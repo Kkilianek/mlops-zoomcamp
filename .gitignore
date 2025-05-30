@@ -175,3 +175,13 @@ cython_debug/
 
 # Data files
 *.parquet
+
+# Pickle files
+*.pkl
+
+# Db files
+*.db
+
+# MLflow folders
+mlruns/
+mlartifacts/
